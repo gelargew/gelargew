@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Web app developer, data specialist
+
+- ⚒️ My tech stack: Python, Javascript, React, Django, CSS(yes), SQL, Tensorflow
 - 🔭 I’m currently working on [Construe(Library Management System)](https://github.com/gelargew/construe)
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning [DeepLearning](https://www.deeplearning.ai/), Typescript, Chopin Ballades
+- ⛏ I'm Interested in: Java, [Electron](https://www.electronjs.org/)
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=gelargew&amp;show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelargew&layout=compact&theme=react&hide_border=true)](https://github.com/gelargew)
