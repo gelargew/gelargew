@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [DeepLearning](https://www.deeplearning.ai/), Typescript, Chopin Ballades
 - ⛏ I'm Interested in: Java, [Flutter](https://flutter.dev/)
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=gelargew&amp;show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=gelargew&hide=prs,issues,contribs&amp;show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelargew&layout=compact&theme=react&hide_border=true)](https://github.com/gelargew)
