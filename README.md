@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Gelar (geulaar)
 
 <!--
 **gelargew/gelargew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Web app developer, data specialist
+#### I'm a Web app developer and a data specialist
 
 - ⚒️ My tech stack: Python, Javascript, React, Django, CSS(yes), SQL, Tensorflow
 - 🔭 I’m currently working on [Construe(Library Management System)](https://github.com/gelargew/construe)
