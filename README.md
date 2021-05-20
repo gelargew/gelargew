@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚒️ My tech stack: Python, Javascript, React, Django, CSS(yes), SQL, Tensorflow
 - 🔭 I’m currently working on [Construe(Library Management System)](https://github.com/gelargew/construe), Kraeplin-Pauli test App
 - 🌱 I’m currently learning [DeepLearning](https://www.deeplearning.ai/), Typescript, Chopin Ballades
-- ⛏ I'm Interested in: Java, [Flutter](https://flutter.dev/)
+- ⛏ I'm Interested in: Java, [Flutter](https://flutter.dev/)/React Native
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=gelargew&hide=prs,issues,contribs&amp;show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats"></p>
 
