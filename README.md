@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 #### I'm a Web app developer and a data specialist
 
-- ⚒️ My tech stack: Python, Javascript, React, Django, CSS(yes), SQL, Tensorflow
+- ⚒️ My tech stack: Python, Javascript, React, Django, google cloud platform, SQL, Tensorflow
 - 🔭 I’m currently working on [Construe(Library Management System)](https://github.com/gelargew/construe), Kraeplin-Pauli test App
-- 🌱 I’m currently learning [DeepLearning](https://www.deeplearning.ai/), Typescript, Chopin Ballades
-- ⛏ I'm Interested in: Java, [Flutter](https://flutter.dev/)/React Native
+- 🌱 I’m currently learning Three.js, React Native, Typescript, Chopin Ballades
+- ⛏ I'm Interested in: Java/kotlin
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=gelargew&hide=prs,issues,contribs&amp;show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats"></p>
 
