@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 #### I'm a Web app developer and a data specialist
 
 - ⚒️ My tech stack: Python, Javascript, React, Django, google cloud platform, SQL, Tensorflow
-- 🔭 I’m currently working on [Construe(Library Management System)](https://github.com/gelargew/construe), Kraeplin-Pauli test App
+- 🔭 I’m currently working on [Construe(Library Management System)](https://github.com/gelargew/construe), [Kraeplin-Pauli test App](https://github.com/gelargew/kraepelin-pauli)
 - 🌱 I’m currently learning Three.js, React Native, Typescript, Chopin Ballades
 - ⛏ I'm Interested in: Java/kotlin
 
