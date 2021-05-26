@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 <a href="https://www.codewars.com/users/gelar" target="blank"><img src="https://www.codewars.com/users/gelar/badges/large" align="center" ></a>
 <a href="https://www.hackerrank.com/gelargew" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="gelargew" height="50" /></a>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=gelargew&hide=prs,issues,contribs&amp;show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=gelargew&hide=issues&amp;show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats"></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelargew&layout=compact&theme=merko&hide_border=true)](https://github.com/gelargew)
