@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 #### I'm a Web app developer and a data specialist
 
 - ⚒️ My tech stack: Python, Javascript, React, Django, google cloud platform, SQL, Tensorflow
-- I speak English, Indonesian, Sundanese, German, and some Japanese
+- 😎 I understand English, Bahasa(indonesia), Sundanese, German, and some Japanese
 - 🔭 I’m currently working on [Construe(Library Management System)](https://github.com/gelargew/construe), [Kraeplin-Pauli test App](https://github.com/gelargew/kraepelin-pauli)
-- 🌱 I’m currently learning Three.js, React Native, Typescript, Chopin Ballades
-- ⛏ I'm Interested in: Java/kotlin
+- 🌱 I’m currently learning  React Native, Typescript, Chopin Ballades
+- ⛏ I'm currently interested in: Java/kotlin (spring) , always open to learn new things !
 
 #### gelargew
 <a href="https://www.codewars.com/users/gelar" target="blank"><img src="https://www.codewars.com/users/gelar/badges/large" align="center" ></a>
