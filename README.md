@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm a Web app developer and a data specialist
+#### I'm an App developer and a data specialist
 
 - ⚒️ My tech stack: Python, Javascript, React, Django, google cloud platform, SQL, Tensorflow
 - 😎 I understand English, Bahasa(indonesia), Sundanese, German, and some Japanese
