@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - ⛏ I'm currently interested in: Java/kotlin (spring) , always open to learn new things !
 
 #### gelargew
+{linkedIn](https://www.linkedin.com/in/gelargew/)
 <a href="https://www.codewars.com/users/gelar" target="blank"><img src="https://www.codewars.com/users/gelar/badges/large" align="center" ></a>
 <a href="https://www.hackerrank.com/gelargew" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="gelargew" height="50" /></a>
 
@@ -30,6 +31,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelargew&layout=compact&theme=merko&hide_border=true)](https://github.com/gelargew)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gelar-rustiawan-445909119" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/gelar-rustiawan-445909119?trk=profile-badge">Gelar Rustiawan</a></div>
-              
