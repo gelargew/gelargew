@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 <p><img src="https://github-readme-stats.vercel.app/api?username=gelargew&hide=issues&amp;show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats"></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelargew&layout=compact&theme=merko&hide_border=true)](https://github.com/gelargew)
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gelar-rustiawan-445909119" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/gelar-rustiawan-445909119?trk=profile-badge">Gelar Rustiawan</a></div>
+              
