@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 - ⚒️ My tech stack: Python, Javascript, React, Django, google cloud platform, SQL, Tensorflow
 - 😎 I understand English, Bahasa(indonesia), Sundanese, German, and some Japanese
-- 🔭 I’m currently working on [Construe(Library Management System)](https://github.com/gelargew/construe), [Kraeplin-Pauli test App](https://github.com/gelargew/kraepelin-pauli)
-- 🌱 I’m currently learning  React Native, Google cloud platform, Chopin Ballades
+- 🔭 I’m currently working on [My Portfolio Website](https://gelar.vercel.app/)
+- 🌱 I’m currently learning  WebGL, Chopin Ballades
 - ⛏ I'm currently interested in: Java/kotlin (spring) , always open to learn new things !
 
 #### gelargew
