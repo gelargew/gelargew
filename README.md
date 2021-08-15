@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 #### I'm an App developer and a data specialist
 
-- ⚒️ My tech stack: Python, Javascript, React, Django, google cloud platform, SQL, Tensorflow
-- 😎 I understand English, Bahasa(indonesia), Sundanese, German, and some Japanese
+- ⚒️ My tech stack: Python, Javascript, React, Django, SQL, Tensorflow, WebGL
+- 😎 I understand English, Bahasa(indonesia), Sundanese, and some German.
 - 🔭 I’m currently working on [My Portfolio Website](https://gelar.vercel.app/)
 - 🌱 I’m currently learning  WebGL, Chopin Ballades
-- ⛏ I'm currently interested in: Java/kotlin (spring) , always open to learn new things !
+- ⛏ I'm currently interested in: always open to learn new things !
 
 #### gelargew
 [linkedIn](https://www.linkedin.com/in/gelargew/)
