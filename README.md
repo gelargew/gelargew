@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - ⚒️ My tech stack: Python, Javascript, React, Django, SQL, Tensorflow, WebGL
 - 😎 I understand English, Bahasa(indonesia), Sundanese, and some German.
-- 🔭 I’m currently working on [My Portfolio Website](https://gelar.vercel.app/)
+- 🔭 I’m currently working on [My Portfolio Website](https://gelar.vercel.app/), [gym-shader](https://gelargym-glsl.vercel.app/mosaic/).
 - 🌱 I’m currently learning  WebGL, 3D modelling(Blender), Chopin Ballades
 - ⛏ I'm currently interested in: always open to learn new things !
 
